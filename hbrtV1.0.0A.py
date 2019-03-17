@@ -9,8 +9,10 @@ im=ImageGrab.grab()
 mouse = Controller()
 sx = 699
 sy = 249
+ex = 700
+ey = 250
 def grabImage(filename):
-    im=ImageGrab.grab(bbox=(sx, sy, 700, 250))	
+    im=ImageGrab.grab(bbox=(sx, sy, ex, ey))	
     im.save(filename)
 
 def find_rgb(imagename, r_query, g_query, b_query):
