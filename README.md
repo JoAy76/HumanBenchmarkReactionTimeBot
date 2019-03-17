@@ -18,7 +18,7 @@ After installing these module, open the python file via double clicking, using c
 
 If you need to stop the program use the key interrupt (CTRL + C)
 
-If you want to use this for other purposes, you can edit screengrab sizes, rgb values and more!
+If you want to use this for other purposes, you can edit screengrab sizes, rgb values and more! RGB Values might need to be adjusted!
 
 **NOTE: THIS SCRIPT/BOT TAKES A SCREENSHOT OF ONE PIXEL ON THE SCREEN! THIS PIXEL CAN BE CONFIGURABLE IN THE IDLE. TO CHANGE THE VALUES OF SCREENGRAB HERE'S A GUIDE:**
 
