@@ -32,6 +32,8 @@ To change size of screengrab, edit (bbox(sx, sy, ex, ey))
 
 These stand for start-x start-y and end-x end-y! **(CHANGING THIS MAY SLOW DOWN THE BOT)**
 
+**FINALLY! IF YOU SEE OUTPUT IN THE COMMAND PROMPT LIKE NONE OR (0,0) IT MEANS ITS WORKING! NOW JUST MAKE SURE THE HUMAN BENCHMARK TAB IS OPEN AND IS IN FULL SCREEN!**
+
 If you need to contact me or want to suggest any changes please contact me @ joey.github@cowstore.org
 
 VERSION: 1.0.0A
