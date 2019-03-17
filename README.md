@@ -6,6 +6,7 @@ This bot will auto click the screen when green or blue pops up allowing for a lo
 - sys
 - time
 - cv2 (OpenCV 2)
+
 To get these modules use the following commands in your command prompt:
 pip install Pillow
 pip install pynput 
