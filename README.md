@@ -1,4 +1,5 @@
 # HumanBenchmarkReactionTimeBot
+https://www.humanbenchmark.com/tests/reactiontime
 This bot will auto click the screen when green or blue pops up allowing for a lower time and higher score. This script requires the following prerequisites:
 - Python 3.7.2 or high (duh)
 - PIP
