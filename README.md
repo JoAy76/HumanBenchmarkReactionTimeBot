@@ -16,6 +16,8 @@ To get these modules use the following commands in your command prompt:
 - pip install matplotlib
 - pip install opencv-python==2.4.9
 
+On windows, selecting these commands and pasting them in the command prompt will install all modules one at a time!.
+
 After installing these module, open the python file via double clicking, using command line or using the python IDLE.
 
 NOTE: YOU MUST HAVE THE HUMAN BENCHMARK TAB OPENED FULL AND NOTHING CAN BE BLOCK THE PAGE INCLUDING THE COMMAND PROMPT! IF THE COMMAND PROMPT IS BLOCKING THE PAGE IT WILL NOT WORK! ALT-TAB TO THE BROWSER IF NEEDED TO HIDE THE COMMAND PROMPT!
