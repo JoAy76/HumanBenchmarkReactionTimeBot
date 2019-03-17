@@ -4,17 +4,11 @@ This bot will auto click the screen when green or blue pops up allowing for a lo
 - PIP
 - PIL (Python Image Library/Pillow)
 - Pynput
-- NumPy
-- sys
-- time
-- cv2 (OpenCV 2)
 
 To get these modules use the following commands in your command prompt:
 - pip install Pillow
 - pip install pynput 
-- pip install numpy
-- pip install matplotlib
-- pip install opencv-python
+
 
 On windows, selecting these commands and pasting them in the command prompt will install all modules one at a time!.
 
