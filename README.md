@@ -30,4 +30,4 @@ These stand for start-x start-y and end-x end-y! **(CHANGING THIS MAY SLOW DOWN 
 
 If you need to contact me or want to suggest any changes please contact me @ joey.github@cowstore.org
 
-VERSION: 1.0.0A
+VERSION: 1.1.0A
