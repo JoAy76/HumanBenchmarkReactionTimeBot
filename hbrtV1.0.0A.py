@@ -25,8 +25,8 @@ def find_rgb(imagename, r_query, g_query, b_query):
                mouse.position = (x + sx, y + sy)
                mouse.click(Button.left, 1)
                return (x, y)
-b = 1
-while b == 1:
+b = 0
+while b == 0:
     grabImage('blurred.png')
     print(find_rgb('blurred.png', 47, 134, 208))
     print(find_rgb('blurred.png', 76, 218, 106))
