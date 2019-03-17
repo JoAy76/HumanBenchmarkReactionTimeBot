@@ -16,6 +16,8 @@ To get these modules use the following commands in your command prompt:
 
 After installing these module, open the python file via double clicking, using command line or using the python IDLE.
 
+NOTE: YOU MUST HAVE THE HUMAN BENCHMARK TAB OPENED FULL AND NOTHING CAN BE BLOCK THE PAGE INCLUDING THE COMMAND PROMPT! IF THE COMMAND PROMPT IS BLOCKING THE PAGE IT WILL NOT WORK! ALT-TAB TO THE BROWSER IF NEEDED TO HIDE THE COMMAND PROMPT!
+
 If you need to stop the program use the key interrupt (CTRL + C)
 
 If you need to contact me or want to suggest any changes please contact me @ joey.github@cowstore.org
