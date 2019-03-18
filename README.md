@@ -7,7 +7,7 @@
 - **Pynput**
 
 **To get these modules use the following commands in your command prompt:**
-- pip install Pillow**
+- **pip install Pillow**
 - **pip install pynput**
 
 
