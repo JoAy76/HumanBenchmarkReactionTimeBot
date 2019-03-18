@@ -25,10 +25,10 @@ b = 0
 while b == 0:
     grabImage('blurred.png')
     print(find_rgb('blurred.png', 43, 135, 209))
-    grabImage('blurred.png')
+    
     print(find_rgb('blurred.png', 75, 219, 106))
-    grabImage('blurred.png')
+    
     print(find_rgb('blurred.png', 47, 134, 208))
-    grabImage('blurred.png')
+    
     print(find_rgb('blurred.png', 76, 218, 106))   
     
