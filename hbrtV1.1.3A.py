@@ -11,8 +11,8 @@ def grabImage(filename):
     im=ImageGrab.grab(bbox=(sx, sy, ex, ey))	
     im.save(filename)
 
-def find_rgb(imagename, r_query, g_query, b_query):
-    img = Image.open(imagename)
+def find_rgb(filename, r_query, g_query, b_query):
+    img = Image.open(filename)
     rgb = img.convert('RGB')
     for x in range(img.size[0]):
        for y in range(img.size[1]):
@@ -32,4 +32,4 @@ while b == 0:
     
     print(find_rgb('blurred.png', 76, 218, 106))   
     
-#Version: 1.1.3 Alpha
+#Version: 1.2.0 Alpha
