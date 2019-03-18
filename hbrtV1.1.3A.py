@@ -32,3 +32,4 @@ while b == 0:
     
     print(find_rgb('blurred.png', 76, 218, 106))   
     
+#Version: 1.1.3 Alpha
