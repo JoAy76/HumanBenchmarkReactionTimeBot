@@ -1,10 +1,10 @@
 # Image Grab Pixel Clicker
 
 **This bot will auto click the screen when it detects certain rgb values. This script requires the following prerequisites:
-- Python 3.7.2 or high (duh)
-- **PIP
-- **PIL (Python Image Library/Pillow)
-- **Pynput
+- Python 3.7.2 or high (duh)**
+- **PIP**
+- **PIL (Python Image Library/Pillow)**
+- **Pynput**
 
 **To get these modules use the following commands in your command prompt:
 - pip install Pillow
