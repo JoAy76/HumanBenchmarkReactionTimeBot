@@ -22,6 +22,6 @@ If you need to stop the program use the key interrupt (CTRL + C)
 
 **FINALLY! IF YOU SEE OUTPUT IN THE COMMAND PROMPT LIKE NONE OR (0,0) IT MEANS ITS WORKING! NOW JUST MAKE SURE THE HUMAN BENCHMARK TAB IS OPEN AND IS IN FULL SCREEN!**
 
-If you need to contact me or want to suggest any changes please contact me @ joey.github@cowstore.org
+If you need to contact me or want to suggest any changes please contact me @ admin@josephambaye.dev
 
 **VERSION: 2.0.0 Alpha**
