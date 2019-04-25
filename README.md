@@ -5,7 +5,7 @@
 - **PIP**
 - **PIL (Python Image Library/Pillow)**
 - **Pynput**
-
+- **macOS and Windows only! (Linux version coming soon!)**
 **To get these modules use the following commands in your command prompt:**
 - **pip install Pillow**
 - **pip install pynput**
