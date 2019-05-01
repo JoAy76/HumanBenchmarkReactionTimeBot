@@ -7,8 +7,8 @@
 - **Pynput**
 - **macOS and Windows only! (Linux version coming soon!)**
 **To get these modules use the following commands in your command prompt:**
-- **pip install Pillow**
-- **pip install pynput**
+- **pip3 install pyscreenshot (or pip)**
+- **pip3 install pynput (or pip)**
 
 
 On windows, selecting these commands and pasting them in the command prompt will install all modules one at a time!.
