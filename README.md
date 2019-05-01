@@ -2,10 +2,10 @@
 
 **This bot will auto click the screen when it detects certain rgb values. This script requires the following prerequisites:**
 - **Python 3.7.2 or high (duh)**
-- **PIP**
-- **PIL (Python Image Library/Pillow)**
+- **PIP3**
+- **Pyscreenshot**
 - **Pynput**
-- **macOS and Windows only! (Linux version coming soon!)**
+- **Supports all major platforms now! (Windows, macOS and Linux!!!)*
 **To get these modules use the following commands in your command prompt:**
 - **pip3 install pyscreenshot (or pip)**
 - **pip3 install pynput (or pip)**
@@ -24,4 +24,4 @@ If you need to stop the program use the key interrupt (CTRL + C)
 
 If you need to contact me or want to suggest any changes please contact me @ admin@josephambaye.dev
 
-**VERSION: 2.0.0 Alpha**
+**VERSION: 3.0.0 Alpha**
