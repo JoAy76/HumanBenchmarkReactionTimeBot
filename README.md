@@ -10,6 +10,7 @@
 - **To get these modules use the following commands in your command prompt:**
 - **pip3 install pyscreenshot**
 - **pip3 install pynput**
+- **pip3 install PIL**
 
 
 On windows, selecting these commands and pasting them in the command prompt will install all modules one at a time!.
