@@ -9,7 +9,7 @@
 - **Supports all major platforms now! (Windows, macOS and Linux!!!)**
 - **To get these modules use the following commands in your command prompt:**
 - **pip3 install pyscreenshot**
-- **pip3 install pynput)**
+- **pip3 install pynput**
 
 
 On windows, selecting these commands and pasting them in the command prompt will install all modules one at a time!.
@@ -23,6 +23,6 @@ If you need to stop the program use the key interrupt (CTRL + C)
 
 **FINALLY! IF YOU SEE OUTPUT IN THE COMMAND PROMPT LIKE NONE OR (0,0) IT MEANS ITS WORKING! NOW JUST MAKE SURE THE HUMAN BENCHMARK TAB IS OPEN AND IS IN FULL SCREEN!**
 
-If you need to contact me or want to suggest any changes please contact me @ admin@josephambaye.dev
+If you need to contact me or want to suggest any changes please contact me @ admin@josephambayec.dev
 
 **VERSION: 3.0.0 Alpha**
