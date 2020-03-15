@@ -1,7 +1,7 @@
 # Image Grab Pixel Clicker
 
 **This bot will auto click the screen when it detects certain rgb values. This script requires the following prerequisites:**
-- **Python 3.7.2 or high (duh)**
+- **Python 3.x.x or higher**
 - **PIP3**
 - **PIL/Pillow**
 - **Pyscreenshot**
