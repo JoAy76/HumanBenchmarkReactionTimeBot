@@ -1,3 +1,5 @@
+from moduleinstaller import *
+installModule()
 from PIL import Image, ImageFilter
 from pynput.mouse import Button, Controller
 import pyscreenshot as ImageGrab
@@ -6,10 +8,10 @@ im=ImageGrab.grab()
 mouse=Controller()
 
 
-sx = int(input("Start x-coordinate of image grab. (Coordinates starts from top left of screen: "))
-sy = int(input("Start y-coordinate of image grab. (Coordinates starts from top left of screen: "))
-ex = int(input("End x-coordinate of image grab. (Coordinates starts from top left of screen: "))
-ey = int(input("End y-coordinate of image grab. (Coordinates starts from top left of screen: "))
+sx = int(input("Start x-coordinate of image grab. Coordinates starts from top left of screen: "))
+sy = int(input("Start y-coordinate of image grab. Coordinates starts from top left of screen: "))
+ex = int(input("End x-coordinate of image grab. Coordinates starts from top left of screen: "))
+ey = int(input("End y-coordinate of image grab. Coordinates starts from top left of screen: "))
 
 filename = input("Filename for image grab (hi.png): ")
 
